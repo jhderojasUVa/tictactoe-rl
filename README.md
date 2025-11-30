@@ -8,7 +8,7 @@ The entire workflow is automated using the included Makefile.
 
 - WSL (Windows Subsystem for Linux): Recommended for running the Python training script.
 - Poetry: Installed in your WSL/Linux environment for dependency management.
-- Python 3.8+: Installed and available on your system.
+- Python 3.11+: Installed and available on your system.
 - .NET API Project: You must have a separate C# ASP.NET Core Web API project created (e.g., in a folder like ../TicTacToeApi/TicTacToe.Service).
 
 ## Configuration (CRITICAL STEP)
