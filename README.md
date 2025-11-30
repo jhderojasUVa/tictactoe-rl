@@ -55,6 +55,6 @@ Training complete. Total time: 10.55 seconds.
 ✅ Model successfully copied to ../TicTacToeApi/TicTacToe.Service
 ```
 
-3. Next Step: C# Integration
+## Next Step: C# Integration
 
 Once the model file (`q_table.json`) is deployed to your .NET API project, you must implement the C# logic to load the file, parse the JSON, and use the Q-values to determine the optimal move in your API controller.
